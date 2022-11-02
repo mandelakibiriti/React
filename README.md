@@ -2,7 +2,7 @@
 Course by Maximilian Schwarzmüller on the [React - The Complete Guide 2022](https://www.udemy.com/course/react-the-complete-guide-incl-redux/). Below is just a summary on key learning points.
 
 ## Expense Tracker 
-![Expense Tracker](ExpenseTracker.png "Expense Tracker")
+![Expense Tracker](ExpenseTracker.PNG "Expense Tracker")
 
 ### Key Learning Points
 1. Const, Let, Spread Operator and Arrow Functions
